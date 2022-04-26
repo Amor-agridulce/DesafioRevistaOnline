@@ -1,0 +1,26 @@
+
+$gray: gray;
+$steelblue:steelblue;
+$white: white;
+$whiteNot:#f2f4f5; 
+$coral: coral; 
+
+$tipografia: monospace;
+
+$textLarge:24;
+$textNormal:13;
+
+$bold:700;
+$regular:400;
+
+$viewportWidth:100%;
+$widthNews:32%; 
+$padding5: 5px;
+$padding10: 1%;
+
+$breakpoints:(
+    'small' :(min-width: 320px),
+    'medium':(min-width: 768px),
+    'large' :(min-width: 992px),
+    'huge'  :(min-width: 1200px),
+);
